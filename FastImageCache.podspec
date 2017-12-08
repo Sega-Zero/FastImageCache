@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
 
   s.license      = { type: 'MIT', file: 'LICENSE' }
 
-  s.source       = { :git => 'https://github.com/Sega-Zero/FastImageCache.git', :branch => 'master' }
+  s.source       = { :git => 'https://github.com/mallorypaine/FastImageCache.git', :branch => 'master' }
   s.source_files = "FastImageCache/FastImageCache/**/*.{h,m}"
   s.platform     = :ios, '6.0'
   
